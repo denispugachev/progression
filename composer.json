@@ -1,0 +1,8 @@
+{
+  "name": "denispugachev/progression",
+  "description": "Progression checker console command",
+  "require": {
+    "php": ">=5.6",
+    "symfony/console": "3.2.4"
+  }
+}
