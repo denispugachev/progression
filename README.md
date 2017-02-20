@@ -19,3 +19,11 @@ Where `<NUMERIC_SEQUENCE>` is comma separated sequence of numbers.
 ./command check-progression "2, 4, 8, 16, 32"
 ./command check-progression "10, 5, 2.5, 1.25"
 ```
+
+### Running unit tests
+
+Just run following command:
+
+```bash
+vendor/bin/codecept run
+```
