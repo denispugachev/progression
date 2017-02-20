@@ -27,3 +27,12 @@ Just run following command:
 ```bash
 vendor/bin/codecept run
 ```
+
+### Skills demonstrated
+
+1. PHP, OOP, patterns, Yii2
+2. git workflow
+3. composer
+4. testing
+5. markdown
+6. travis
